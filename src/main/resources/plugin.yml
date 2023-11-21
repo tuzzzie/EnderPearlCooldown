@@ -1,0 +1,5 @@
+name: EnderPearlCooldown
+version: '${project.version}'
+main: net.earthmc.enderpearlcooldown.EnderPearlCooldown
+api-version: '1.19'
+authors: [tuzzzie]
